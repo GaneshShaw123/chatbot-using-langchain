@@ -12,7 +12,7 @@
 
 
 		#### To run this code- Open command prompt and type
-		python 1.py
+		python ChatbotLangchain.py
 
  
 
